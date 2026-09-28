@@ -1,0 +1,6 @@
+This file tells downloading your project which Python libraries are needed
+
+ultralytics
+opencv-python
+numpy
+requests
